@@ -1,0 +1,6 @@
+{
+  "name": "AegisCare Healthcare Platform",
+  "description": "Accessible healthcare platform prototype featuring smart ambulance telemetry, hospital pre-arrival coordination, clinical triage, and multi-role emergency dashboards across Hyderabad.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
